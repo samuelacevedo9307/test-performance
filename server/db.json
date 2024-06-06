@@ -1,0 +1,74 @@
+{
+  "userRoles": [
+    {
+      "id": "1",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "role": "visitor"
+    }
+  ],
+  "users": [
+    {
+      "id": "f4a3",
+      "name": "Samuel",
+      "email": "samuel@gmail.com",
+      "password": "Samuel12345",
+      "userRoleId": "1"
+    },
+    {
+      "id": "7242",
+      "name": "alfred",
+      "email": "alfred@gmail.com",
+      "password": "123456",
+      "userRoleId": "2"
+    },
+    {
+      "id": "b6c8",
+      "name": "pepito",
+      "email": "pepito@gmail.com",
+      "password": "123456",
+      "userRoleId": "2"
+    }
+  ],
+  "flights": [
+    {
+      "id": "1",
+      "number": "2",
+      "origin": "colombia",
+      "destination": "cartegena",
+      "departure": "07/07/2024",
+      "arrival": "15/07/2024",
+      "capacity": 7
+    },
+    {
+      "id": "2",
+      "number": "2",
+      "origin": "colombia",
+      "destination": "cartegena",
+      "departure": "07/07/2024",
+      "arrival": "15/07/2024",
+      "capacity": 7
+    },
+    {
+      "id": "3",
+      "number": "2",
+      "origin": "colombia",
+      "destination": "cartegena",
+      "departure": "07/07/2024",
+      "arrival": "15/07/2024",
+      "capacity": 7
+    },
+    {
+      "id": "4",
+      "number": "2",
+      "origin": "colombia",
+      "destination": "cartegena",
+      "departure": "07/07/2024",
+      "arrival": "15/07/2024",
+      "capacity": 7
+    }
+  ]
+  
+}
